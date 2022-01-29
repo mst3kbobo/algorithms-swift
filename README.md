@@ -2,6 +2,10 @@
 
 Playground project for learning and experimenting with algorithms using Swift.
 
+* NthFibonacci
+* TwoNumberSum
+* ValidateSubsequence
+
 #### List of resources used for learning:
 * AlgoExpert - https://www.algoexpert.io
 * Book - Swift Programming: The Big Nerd Ranch Guide (3rd Edition) -  
