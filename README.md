@@ -5,6 +5,7 @@ Playground project for learning and experimenting with algorithms using Swift.
 * NthFibonacci
 * TwoNumberSum
 * ValidateSubsequence
+* BubbleSort
 
 #### List of resources used for learning:
 * AlgoExpert - https://www.algoexpert.io
